@@ -1,6 +1,6 @@
 # SSH Spray
 
-Multithreaded SSH authentication testing tool for penetration testing and security audits.
+Multithreaded SSH authentication testing tool supporting private keys and passwords against multiple hosts and users for penetration testing and security audits.
 
 ## Features
 
